@@ -7,9 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		917773A21E7B0F6D004BC23B /* WAModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 917773A11E7B0F6D004BC23B /* WAModel.m */; };
+		9187C6AA1E78189C009FBCA2 /* cities.json in Resources */ = {isa = PBXBuildFile; fileRef = 9187C6A91E78189C009FBCA2 /* cities.json */; };
 		91B037C31E76E276008A171D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 91B037C21E76E276008A171D /* main.m */; };
 		91B037C61E76E276008A171D /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 91B037C51E76E276008A171D /* AppDelegate.m */; };
-		91B037C91E76E276008A171D /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91B037C81E76E276008A171D /* ViewController.m */; };
+		91B037C91E76E276008A171D /* WAController.m in Sources */ = {isa = PBXBuildFile; fileRef = 91B037C81E76E276008A171D /* WAController.m */; };
 		91B037CC1E76E276008A171D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91B037CA1E76E276008A171D /* Main.storyboard */; };
 		91B037CF1E76E276008A171D /* ElilinkWeatherApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 91B037CD1E76E276008A171D /* ElilinkWeatherApp.xcdatamodeld */; };
 		91B037D11E76E276008A171D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91B037D01E76E276008A171D /* Assets.xcassets */; };
@@ -17,12 +19,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		917773A01E7B0F6D004BC23B /* WAModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WAModel.h; sourceTree = "<group>"; };
+		917773A11E7B0F6D004BC23B /* WAModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WAModel.m; sourceTree = "<group>"; };
+		9187C6A91E78189C009FBCA2 /* cities.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = cities.json; path = ../../../../Downloads/cities.json; sourceTree = "<group>"; };
 		91B037BE1E76E276008A171D /* ElilinkWeatherApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ElilinkWeatherApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		91B037C21E76E276008A171D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		91B037C41E76E276008A171D /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		91B037C51E76E276008A171D /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		91B037C71E76E276008A171D /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		91B037C81E76E276008A171D /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		91B037C71E76E276008A171D /* WAController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = WAController.h; sourceTree = "<group>"; };
+		91B037C81E76E276008A171D /* WAController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WAController.m; sourceTree = "<group>"; };
 		91B037CB1E76E276008A171D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		91B037CE1E76E276008A171D /* ElilinkWeatherApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ElilinkWeatherApp.xcdatamodel; sourceTree = "<group>"; };
 		91B037D01E76E276008A171D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -46,6 +51,7 @@
 			children = (
 				91B037C01E76E276008A171D /* ElilinkWeatherApp */,
 				91B037BF1E76E276008A171D /* Products */,
+				B658596C4FABFC572B4E282A /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -62,14 +68,17 @@
 			children = (
 				91B037C41E76E276008A171D /* AppDelegate.h */,
 				91B037C51E76E276008A171D /* AppDelegate.m */,
-				91B037C71E76E276008A171D /* ViewController.h */,
-				91B037C81E76E276008A171D /* ViewController.m */,
+				91B037C71E76E276008A171D /* WAController.h */,
+				91B037C81E76E276008A171D /* WAController.m */,
 				91B037CA1E76E276008A171D /* Main.storyboard */,
+				9187C6A91E78189C009FBCA2 /* cities.json */,
 				91B037D01E76E276008A171D /* Assets.xcassets */,
 				91B037D21E76E276008A171D /* LaunchScreen.storyboard */,
 				91B037D51E76E276008A171D /* Info.plist */,
 				91B037CD1E76E276008A171D /* ElilinkWeatherApp.xcdatamodeld */,
 				91B037C11E76E276008A171D /* Supporting Files */,
+				917773A01E7B0F6D004BC23B /* WAModel.h */,
+				917773A11E7B0F6D004BC23B /* WAModel.m */,
 			);
 			path = ElilinkWeatherApp;
 			sourceTree = "<group>";
@@ -80,6 +89,13 @@
 				91B037C21E76E276008A171D /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B658596C4FABFC572B4E282A /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -140,6 +156,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9187C6AA1E78189C009FBCA2 /* cities.json in Resources */,
 				91B037D41E76E276008A171D /* LaunchScreen.storyboard in Resources */,
 				91B037D11E76E276008A171D /* Assets.xcassets in Resources */,
 				91B037CC1E76E276008A171D /* Main.storyboard in Resources */,
@@ -153,7 +170,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				91B037C91E76E276008A171D /* ViewController.m in Sources */,
+				91B037C91E76E276008A171D /* WAController.m in Sources */,
+				917773A21E7B0F6D004BC23B /* WAModel.m in Sources */,
 				91B037C61E76E276008A171D /* AppDelegate.m in Sources */,
 				91B037C31E76E276008A171D /* main.m in Sources */,
 				91B037CF1E76E276008A171D /* ElilinkWeatherApp.xcdatamodeld in Sources */,
@@ -311,6 +329,7 @@
 				91B037DA1E76E276008A171D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

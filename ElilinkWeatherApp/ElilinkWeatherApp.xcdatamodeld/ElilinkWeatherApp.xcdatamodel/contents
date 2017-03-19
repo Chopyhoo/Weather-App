@@ -1,4 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="1" systemVersion="11A491" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
-    <elements/>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="16A323" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="Cache" representedClassName="Cache" syncable="YES" codeGenerationType="class">
+        <attribute name="cityCache" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="descriptionCache" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="humidityCache" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pressureCache" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tempCache" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="weatherCache" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Weather" representedClassName="Weather" syncable="YES" codeGenerationType="class">
+        <attribute name="city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="date" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="humidity" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id_city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pressure" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="temp" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="weather" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="weather_description" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Cache" positionX="-63" positionY="45" width="128" height="135"/>
+        <element name="Weather" positionX="-63" positionY="-18" width="128" height="163"/>
+    </elements>
 </model>
