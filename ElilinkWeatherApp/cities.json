@@ -1,0 +1,61 @@
+{
+    "Minsk" : {
+      "name" : "Minsk",
+      "code" : "BY",
+      "id" : "625144",
+      "description" : "Minsk is the capital and largest city of the Republic of Belarus, situated on the Svislach and Nyamiha rivers. It is the administrative centre of the Commonwealth of Independent States (CIS). As the national capital, Minsk has a special administrative status in Belarus and is the administrative centre of Minsk Region and Minsk district. In 2013, it had a population of 2,002,600."
+    },
+    "London" : {
+      "name" : "London",
+      "code" : "GB",
+      "id" : "2643743",
+      "description" : "London is the capital and most populous city of England and the United Kingdom, as well as the most populous municipality in the European Union. Standing on the River Thames in the south east of the island of Great Britain, London has been a major settlement for two millennia. It was founded by the Romans, who named it Londinium. London's ancient core, the City of London, largely retains its 1.12-square-mile (2.9 km2) medieval boundaries. Since at least the 19th century, London has also referred to the metropolis around this core, historically split between Middlesex, Essex, Surrey, Kent, and Hertfordshire, which today largely makes up Greater London, governed by the Mayor of London and the London Assembly."
+    },
+    "New York" : {
+      "name" : "New York",
+      "code" : "US",
+      "id" : "5128638",
+      "description" : "The City of New York, often called New York City or simply New York, is the most populous city in the United States. With an estimated 2015 population of 8,550,405 distributed over a land area of about 302.6 square miles (784 km2), New York City is also the most densely populated major city in the United States. Located at the southern tip of the state of New York, the city is the center of the New York metropolitan area, one of the most populous urban agglomerations in the world. A global power city, New York City exerts a significant impact upon commerce, finance, media, art, fashion, research, technology, education, and entertainment, its fast pace defining the term New York minute. Home to the headquarters of the United Nations, New York is an important center for international diplomacy and has been described as the cultural and financial capital of the world."
+    },
+    "Moscow" : {
+      "name" : "Moscow",
+      "code" : "RU",
+      "id" : "524901",
+      "description" : "Moscow is the capital and most populous city of Russia, with 13.2 million residents within the city limits and 17.8 million within the urban area. Moscow has the status of a Russian federal city. Moscow is a major political, economic, cultural, and scientific center of Russia and Eastern Europe, as well as the largest city entirely on the European continent. By broader definitions Moscow is among the world's largest cities, being the 14th largest metro area, the 18th largest agglomeration, the 15th largest urban area, and the 11th largest by population within city limits worldwide. According to Forbes 2013, Moscow has been ranked as the ninth most expensive city in the world by Mercer and has one of the world's largest urban economies, being ranked as an alpha global city according to the Globalization and World Cities Research Network, and is also one of the fastest growing tourist destinations in the world according to the MasterCard Global Destination Cities Index. Moscow is the northernmost and coldest megacity and metropolis on Earth. It is home to the Ostankino Tower, the tallest free standing structure in Europe; the Federation Tower, the tallest skyscraper in Europe; and the Moscow International Business Center. By its territorial expansion on July 1, 2012 southwest into the Moscow Oblast, the area of the capital more than doubled, going from 1,091 to 2,511 square kilometers (421 to 970 sq mi), and it gained an additional population of 233,000 people. Moscow is situated on the Moskva River in the Central Federal District of European Russia, making it the world's most populated inland city. The city is well known for its architecture, particularly its historic buildings such as Saint Basil's Cathedral with its brightly colored domes. With over 40 percent of its territory covered by greenery, it is one of the greenest capitals and major cities in Europe and the world, having the largest forest in an urban area within its borders—more than any other major city—even before its expansion in 2012. The city has served as the capital of a progression of states, from the medieval Grand Duchy of Moscow and the subsequent Tsardom of Russia to the Russian Empire to the Soviet Union and the contemporary Russian Federation. Moscow is considered the center of Russian culture, having served as the home of Russian artists, scientists and sports figures and because of the presence of museums, academic and political institutions and theaters."
+    },
+    "Beijing" : {
+      "name" : "Beijing",
+      "code" : "CN",
+      "id" : "1816670",
+      "description" : "Beijing (formerly romanised as Peking) is the capital of the People's Republic of China and the world's third most populous city proper. It is also one of the world's most populous capital cities. The city, located in northern China, is governed as a direct-controlled municipality under the national government with 16 urban, suburban, and rural districts. Beijing Municipality is surrounded by Hebei Province with the exception of neighbouring Tianjin Municipality to the southeast; together the three divisions form the Jingjinji metropolitan region and the national capital region of China."    },
+    "Tokyo" : {
+      "name" : "Tokyo",
+      "code" : "JP",
+      "id" : "1850147",
+      "description" : "Tokyo is the capital of Japan and one of its 47 prefectures. The Greater Tokyo Area is the most populous metropolitan area in the world. It is the seat of the Emperor of Japan and the Japanese government. Tokyo is in the Kantō region on the southeastern side of the main island Honshu and includes the Izu Islands and Ogasawara Islands. Formerly known as Edo, it has been the de facto seat of government since 1603 when Shogun Tokugawa Ieyasu made the city his headquarters. It officially became the capital after Emperor Meiji moved his seat to the city from the old capital of Kyoto in 1868; at that time Edo was renamed Tokyo. Tokyo Metropolis was formed in 1943 from the merger of the former Tokyo Prefecture and the city of Tokyo."
+    },
+    "Madrid" : {
+      "name" : "Madrid",
+      "code" : "ES",
+      "id" : "3117735",
+      "description" : "Madrid is the capital city of Spain and the largest municipality in both the Community of Madrid and the Kingdom of Spain. The city has a population of almost 3.2 million with a metropolitan area population of approximately 6.5 million. It is the third-largest city in the European Union, after London and Berlin, and its metropolitan area is the third-largest in the European Union after those of London and Paris. The municipality itself covers an area of 604.3 km2 (233.3 sq mi)."
+    },
+    "Roma" : {
+      "name" : "Roma",
+      "code" : "IT",
+      "id" : "3169070",
+      "description" : "Rome is a special comune (named Comune di Roma Capitale) and the capital of Italy. Rome also serves as the capital of the Lazio region. With 2,870,336 residents in 1,285 km2 (496.1 sq mi), it is also the country's largest and most populated comune and fourth-most populous city in the European Union by population within city limits. It is the center of the Metropolitan City of Rome, which has a population of 4.3 million residents. The city is located in the central-western portion of the Italian Peninsula, within Lazio (Latium), along the shores of the Tiber. The Vatican City is an independent country geographically located within the city boundaries of Rome, the only existing example of a country within a city: for this reason Rome has been often defined as capital of two states."
+    },
+    "Sydney" : {
+      "name" : "Sydney",
+      "code" : "AU",
+      "id" : "2147714",
+      "description" : "Sydney  is the state capital of New South Wales and the most populous city in Australia and Oceania. Located on Australia's east coast, the metropolis surrounds the world's largest natural harbour, and sprawls towards the Blue Mountains to the west. Residents of Sydney are known as 'Sydneysiders'. Sydney is the second official seat and second official residence of the Governor-General of Australia and the Prime Minister of Australia and many federal ministries maintain substantial presences in Sydney."
+    },
+    "Oslo" : {
+      "name" : "Oslo",
+      "code" : "NO",
+      "id" : "3143244",
+      "description" : "Oslo is the capital and the most populous city in Norway. It constitutes both a county and a municipality. Founded in the year 1040, and established as a kaupstad or trading place in 1048 by Harald Hardrada, the city was elevated to a bishopric in 1070 and a capital under Haakon V of Norway around 1300. Personal unions with Denmark from 1397 to 1523 and again from 1536 to 1814 and with Sweden from 1814 to 1905 reduced its influence. After being destroyed by a fire in 1624, the city was moved closer to Akershus Fortress during the reign of Christian IV of Denmark and renamed Christiania in his honour. It was established as a municipality on 1 January 1838. Following a spelling reform, it was known as Kristiania from 1877 to 1925, at which time its original Norwegian name was restored."
+    }
+}
